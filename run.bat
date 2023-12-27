@@ -1,0 +1,2 @@
+python AlzheimerDiseasePrediction.py
+pause
